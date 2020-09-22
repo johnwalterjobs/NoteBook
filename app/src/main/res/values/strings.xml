@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">BehnoudNote</string>
+    <string name="app_name">Book Note</string>
 
     <string name="hint_word">Word...</string>
     <string name="button_save">Save</string>
